@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="100"/>
+</div>
