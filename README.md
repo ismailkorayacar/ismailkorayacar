@@ -8,7 +8,7 @@
 <h3 align="left"> Connect with me <img  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <div align="center">
-<a href="[https://www.linkedin.com/in/front-end-ismail-acar/](https://www.linkedin.com/in/front-end-ismail-acar/)">
+<a href="https://www.linkedin.com/in/front-end-ismail-acar/" target="_blank">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
   
