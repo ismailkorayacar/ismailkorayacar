@@ -2,7 +2,7 @@
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="350"/>
 </div>
 
-<h1 align="center">Hi :wave:, I'm İsmail Açar</h1> 
+<h1 align="center">:wave: Hi! I'm İsmail Açar</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailkorayacar&label=Profile%20views&color=0e75b6&style=flat" alt="ismailkorayacar" /> </p>
 <h3 align="left">A Front-end Developer</h3>
 <h3 align="left"> Connect with me <img  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32"> </h3>
